@@ -205,7 +205,7 @@ If you enjoyed this game, please ⭐ star the repository to show your support!
 ### 🎮 Ready to Play?
 
 ```bash
-git clone https://github.com/yourusername/rock-paper-scissors-ai-vision.git
+git clone https://github.com/Avishek-Majumder/rock-paper-scissors-ai-vision.git
 cd rock-paper-scissors-ai-vision
 pip install -r requirements.txt
 python rock_paper_scissors_world.py
